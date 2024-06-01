@@ -54,5 +54,7 @@ logdir                 | N/A              | path to trained model
 data_path              | N/A              | path to testing images
 save_path              | N/A              | path to save results
 
+### Network Structure
 
+<img src="http://tuchuang.dendrobiumcgk.chat/pic/image-20240524215731380.png" style="zoom:80%;" />
 
